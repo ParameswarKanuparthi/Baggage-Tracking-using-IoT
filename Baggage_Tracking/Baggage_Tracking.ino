@@ -22,8 +22,8 @@ char auth[] = "G-QNFYPNepq8AcNDfUf6QtgUCstqSm3";              //Your Project aut
 char ssid[] = "IOT_J";                                       // Name of your network (HotSpot or Router name)
 char pass[] = "10101010";                                      // Corresponding Password
 
-const char *ssid1 =  "Manas_phone";    
-const char *pass1 =  "12345678";
+const char *ssid1 =  "Param";    
+const char *pass1 =  "87654321";
 
 
 //unsigned int move_index;         // moving index, to be used later
